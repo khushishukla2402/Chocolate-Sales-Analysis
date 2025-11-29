@@ -74,8 +74,10 @@ This project is an **Exploratory Data Analysis (EDA)** of a chocolate sales data
 ## 📧 Contact
 
 For any feedback or collaboration opportunities:  
-**Author**: Sarthak Salvi  
-**Email**: [sarthaksalvi2107@gmail.com](mailto:sarthaksalvi2107@gmail.com)
+**Author**: Khushi Shukla  
+**Email**: [khushi.shukla0224@gmail.com
+](mailto:khushi.shukla0224@gmail.com
+)
 
 ---
 
